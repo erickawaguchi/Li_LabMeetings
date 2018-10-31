@@ -8,17 +8,17 @@
 
 *Schedule*: Posted Below
 
-*Current Members:* Eric, Narek, Rui, Shanpeng, Mitchell, Bryan, Lin  
+*Current Members:* Eric, Narek, Rui, Shanpeng, Mitchell, Bryan, Kristen, Lin  
 
 ## Schedule:
 
 | Date | Presenter | Topic |Slides|
 |------|-----------|-------|---|
-|Nov. 5 | Shanpeng| [Significance Test for LASSO](https://arxiv.org/pdf/1301.7161.pdf)| TBA |
-|Nov. 12| Eric | [CCD for Fixed Point Problems](https://arxiv.org/pdf/1611.02456.pdf) | TBA |
+|Nov. 5| Eric | [CCD for Fixed Point Problems](https://arxiv.org/pdf/1611.02456.pdf) | TBA |
+|Nov. 12 | Shanpeng| [Significance Test for LASSO](https://arxiv.org/pdf/1301.7161.pdf)| TBA |
 |Nov. 19| Mitchell| [Graphical Lasso](http://statweb.stanford.edu/~tibs/ftp/graph.pdf) | TBA |
 |Nov. 26| Bryan| [Censored Gaussian Graphical Model](https://arxiv.org/pdf/1801.07981.pdf)| TBA |
-|Dec. 3 | Rui | TBA | TBA |
+|Dec. 3 | Rui | [Simultaneous Inference for High-dimensional Linear Models](https://arxiv.org/pdf/1603.01295.pdf) | TBA |
 |Dec. 10| TBA |  TBA | TBA |
 
 
@@ -32,5 +32,4 @@ Regions for Sparse High Dimensional Models](https://arxiv.org/pdf/1412.8765.pdf)
 - [Testing and confidence intervals for high
 dimensional proportional hazards models](https://arxiv.org/pdf/1412.5158.pdf)
 - [Confidence intervals for high-dimensional Cox models](https://arxiv.org/pdf/1803.01150.pdf)
-
 

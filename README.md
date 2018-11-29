@@ -36,9 +36,11 @@ dimensional proportional hazards models](https://arxiv.org/pdf/1412.5158.pdf)
 
 
 ### Single-Cell RNA Seq.
--[BayFish: Bayesian inference of transcription dynamics from population snapshots of single-molecule RNA FISH in single cells](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-017-1297-9)
--[Integrating single-molecule experiments and discrete stochastic modelsto understand heterogeneous gene transcription dynamics](https://www.sciencedirect.com/science/article/pii/S1046202315002510)
--[Gene expression distribution deconvolution in single-cell RNA sequencing](http://www.pnas.org/content/pnas/115/28/E6437.full.pdf)
+- [BayFish: Bayesian inference of transcription dynamics from population snapshots of single-molecule RNA FISH in single cells](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-017-1297-9)
+
+- [Integrating single-molecule experiments and discrete stochastic modelsto understand heterogeneous gene transcription dynamics](https://www.sciencedirect.com/science/article/pii/S1046202315002510)
+
+- [Gene expression distribution deconvolution in single-cell RNA sequencing](http://www.pnas.org/content/pnas/115/28/E6437.full.pdf)
 
 ### Graphical Models
 -[A Log-Linear Graphical Model for Inferring Genetic

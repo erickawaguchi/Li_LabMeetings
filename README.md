@@ -1,25 +1,31 @@
-# Lab Meetings for Dr. Gang Li (Fall 2018)
+# Lab Meetings for Dr. Gang Li (Spring 2019)
 
 ## General Information:
 
-*Time*: Mondays, 12 pm - 1 pm
+*Time*: Thursdays, 12 pm - 1 pm
 
 *Locations*: Frank Massey Library, UCLA Biostatistics Dept.
 
 *Schedule*: Posted Below
 
-*Current Members:* Eric, Narek, Rui, Shanpeng, Mitchell, Bryan, Kristen, Lin  
+*Current Members:* Eric, Narek, Rui, Shanpeng, Mitchell, Bryan, Kristen, Lin, Brendon, Stephen 
 
 ## Schedule:
 
 | Date | Presenter | Topic |Slides|
 |------|-----------|-------|---|
-|Nov. 5| Eric | [CCD for Fixed Point Problems](https://arxiv.org/pdf/1611.02456.pdf) | TBA |
-|Nov. 12 | Shanpeng| [Significance Test for LASSO](https://arxiv.org/pdf/1301.7161.pdf)| TBA |
-|Nov. 19| Mitchell| [Graphical Lasso](http://statweb.stanford.edu/~tibs/ftp/graph.pdf) | TBA |
-|Nov. 26| Bryan| [Censored Gaussian Graphical Model](https://arxiv.org/pdf/1801.07981.pdf)| TBA |
-|Dec. 3 | Rui | [Simultaneous Inference for High-dimensional Linear Models](https://arxiv.org/pdf/1603.01295.pdf) | TBA |
-|Dec. 10| TBA |  TBA | TBA |
+|Apr. 4|Brendon|TBA|TBA|
+|Apr. 11|TBA|TBA|TBA|
+|Apr. 18|TBA|TBA|TBA|
+|Apr. 25|TBA|TBA|TBA|
+|May. 2|TBA|TBA|TBA|
+|May. 9|TBA|TBA|TBA|
+|May. 9|TBA|TBA|TBA|
+|May. 16|TBA|TBA|TBA|
+|May. 23|TBA|TBA|TBA|
+|May. 30|TBA|TBA|TBA|
+|Jun. 6|TBA|TBA|TBA|
+
 
 
 ## Possible Presentation Topics: 
@@ -37,7 +43,8 @@ dimensional proportional hazards models](https://arxiv.org/pdf/1412.5158.pdf)
 
 ### Single-Cell RNA Seq.
 - [BayFish: Bayesian inference of transcription dynamics from population snapshots of single-molecule RNA FISH in single cells](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-017-1297-9)
-- [Integrating single-molecule experiments and discrete stochastic modelsto understand heterogeneous gene transcription dynamics](https://www.sciencedirect.com/science/article/pii/S1046202315002510)
+- [Integrating single-molecule experiments and discrete stochastic models
+to understand heterogeneous gene transcription dynamics](https://www.sciencedirect.com/science/article/pii/S1046202315002510)
 - [Gene expression distribution deconvolution in single-cell RNA sequencing](http://www.pnas.org/content/pnas/115/28/E6437.full.pdf)
 
 ### Graphical Models

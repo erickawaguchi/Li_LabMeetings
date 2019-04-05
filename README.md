@@ -23,7 +23,7 @@
 |May. 9|TBA|TBA|TBA|
 |May. 16|TBA|TBA|TBA|
 |May. 23|TBA|TBA|TBA|
-|May. 30|TBA|TBA|TBA|
+|May. 30|Rui|TBA|TBA|
 |Jun. 6|TBA|TBA|TBA|
 
 

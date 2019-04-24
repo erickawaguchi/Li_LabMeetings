@@ -17,13 +17,13 @@
 |Apr. 4|Brendon|TBA|TBA|
 |Apr. 11|Narek|TBA|TBA|
 |Apr. 18|TBA|TBA|TBA|
-|Apr. 25|Eric|TBA|TBA|
-|May. 2|TBA|TBA|TBA|
+|Apr. 25|[CANCELLED]|TBA|TBA|
+|May. 2|Bryan|TBA|TBA|
 |May. 9|TBA|TBA|TBA|
 |May. 16|Narek|TBA|TBA|
 |May. 23|Zhendong|TBA|TBA|
 |May. 30|Rui|TBA|TBA|
-|Jun. 6|TBA|TBA|TBA|
+|Jun. 6|Shanpeng|TBA|TBA|
 
 
 
